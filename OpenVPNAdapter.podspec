@@ -2,7 +2,7 @@ Pod::Spec.new do |s|
 
   # ―――  Spec Metadata  ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
 
-  s.name = "OpenVPNAdapter"
+  s.name = "OpenVPNAdapterForFlutter"
   s.version = "0.7.0"
   s.summary   = "Objective-C wrapper for OpenVPN library. Compatible with iOS and macOS."
   s.description = <<-DESC
