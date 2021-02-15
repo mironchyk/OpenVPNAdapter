@@ -32,7 +32,7 @@ Pod::Spec.new do |s|
 
   # ――― Source Location ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
 
-  s.source = { :git => "https://github.com/mironchyk/OpenVPNAdapter.git" }
+  s.source = { :git => "https://github.com/mironchyk/OpenVPNAdapter.git", :tag => "#{s.version}" }
 
 
   # ――― Project Linking ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
